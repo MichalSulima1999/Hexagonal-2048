@@ -1,4 +1,6 @@
 footer {
     min-height: 50px;
     background: PapayaWhip;
+    display: flex;
+    justify-content: space-around;
 }
