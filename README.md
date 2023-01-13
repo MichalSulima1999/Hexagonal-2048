@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed Game
+
+The game is published at: [Game](https://hissing-hex-2048.surge.sh/)
+
 ## Available Scripts
 
 In the project directory, you can run:
