@@ -37,7 +37,7 @@ export default class TileGenerator {
       return tileMap;
     }
 
-    if (Math.random() > 0.5) {
+    if (Math.random() > 0.1) {
       tileMap[index].value = 2;
     } else {
       tileMap[index].value = 4;
